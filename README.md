@@ -47,7 +47,7 @@ The dataset contains:
 
 ---
 
-## Data Cleaning & Enrichment
+## Data Cleaning 
 
 🧹 I started by thoroughly checking and refining (if needed) the dataset:
 - ✅ Checked for duplicates and corrected formatting inconsistencies
